@@ -1,0 +1,7 @@
+name: report
+author: Blares
+version: 1.0
+main: blares.report.Report
+
+commands:
+  report:
